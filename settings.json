@@ -122,6 +122,9 @@
 
         // Press Ctrl+Shift+F to open the search box
         { "command": "find", "keys": "ctrl+shift+f" },
+	
+	// Press Ctrl+T for a new Windows Console Tab
+        { "command": "newTab", "keys": "ctrl+t"},
 
         // Press Alt+Shift+D to open a new pane.
         // - "split": "auto" makes this pane open in the direction that provides the most surface area.
