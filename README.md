@@ -1,5 +1,8 @@
 # windows-terminal
-Repository for custom Windows Terminal App configurations of the settings.json file.
+Repository for Personalized Windows Terminal App Configurations
 
-For every "settings.json" file, you will need to edit your personalized image icon location path from your computer.
-Please see example PNG pictures for a preview of the Ubuntu Theme Console Window.
+With the provided "settings.json" file in this repository, you will need to edit your personalized background image location path for your computer.
+Note that the Windows Terminal app also supports GIF images for your personalized console background. Sample GIF images are provided in this repository as well.
+
+Please see example pictures for a preview of my custom Ubuntu Theme Console Window.
+Enjoy!
