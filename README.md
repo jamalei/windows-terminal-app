@@ -5,4 +5,7 @@ With the provided "settings.json" file in this repository, you will need to edit
 
 Please see example pictures for a preview of my custom Ubuntu Theme Console Window.
 
+<b>Command Prompt - Using Ubuntu Color Scheme - Windows Icon GIF</b>
+![](PREVIEW1.png)
+
 Enjoy!
