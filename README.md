@@ -1,18 +1,18 @@
 # Windows Terminal App
 Repository for Personalized Windows Terminal App JSON Settings
-![]/media/(demo_headline.gif)
+![Demo Headline](/media/demo_headline.gif)
 
 With the provided "settings.json" file in this repository, you will need to edit your personalized background image location path for your computer. You may also add additional color schemes of your choice following the comment blocks in the settings file. Note that the Windows Terminal app also supports GIF images for your personalized console background. Sample GIF images are provided in this repository as well.
 
 Please see example pictures for a preview of my custom Ubuntu Theme Console Window.
 
 ### Command Prompt - Using Ubuntu Color Scheme - Windows Icon GIF
-![]/media/(PREVIEW1.png)
+![Theme Preview #1](/media/PREVIEW1.png)
 
 ### Windows PowerShell - Using Dark+ Color Scheme - Blue Lights GIF
-![]/media/(PREVIEW2.png)
+![Theme Preview #2](/media/PREVIEW2.png)
 
 ### Windows PowerShell - Using Dark+ Color Scheme - Miku Icon PNG
-![]/media/(PREVIEW3.png)
+![Theme Preview #3](/media/PREVIEW3.png)
 
 Enjoy!
