@@ -1,5 +1,4 @@
 # Windows Terminal App
-Repository for Personalized Windows Terminal App JSON Settings
 ![Demo Headline](/media/demo_headline.gif)
 
 With the provided "settings.json" file in this repository, you will need to edit your personalized background image location path for your computer. You may also add additional color schemes of your choice following the comment blocks in the settings file. Note that the Windows Terminal app also supports GIF images for your personalized console background. Sample GIF images are provided in this repository as well.
@@ -20,12 +19,12 @@ Enjoy!
 ### Reference Links:
 
 #### TerminalSplash - Online Community Themes
-Link: https://terminalsplash.com
+https://terminalsplash.com
 
 ![Community Themes](/media/terminal_themes.png)
 
-#### Guiding Tech - Online Post
-Link: https://www.guidingtech.com/top-things-know-about-windows-terminal/
+#### Guiding Tech - Online Post - Top Things to Know
+https://www.guidingtech.com/top-things-know-about-windows-terminal/
 
-#### Microsoft Online Documentation
-Link: https://docs.microsoft.com/en-us/windows/terminal/
+#### Microsoft Online Documentation - Windows Terminal
+https://docs.microsoft.com/en-us/windows/terminal/
