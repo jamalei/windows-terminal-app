@@ -16,3 +16,16 @@ Please see example pictures for a preview of my custom Ubuntu Theme Console Wind
 ![Theme Preview #3](/media/PREVIEW3.png)
 
 Enjoy!
+
+### Reference Links:
+
+#### TerminalSplash - Online Community Themes
+Link: https://terminalsplash.com
+
+![Community Themes](/media/terminal_themes.png)
+
+#### Guiding Tech - Online Post
+Link: https://www.guidingtech.com/top-things-know-about-windows-terminal/
+
+#### Microsoft Online Documentation
+Link: https://docs.microsoft.com/en-us/windows/terminal/
